@@ -45,6 +45,7 @@ show_count: false
 recent_posts_limits: 5
 
 # Miscellaneous
+google_adsense:
 google_analytics:
 gauges_analytics:
 favicon: /favicon.png
